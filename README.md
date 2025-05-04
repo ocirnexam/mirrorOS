@@ -18,3 +18,7 @@ This app is the entry point for an embedded device to display certain things lik
 > ./mirrorApp
 
 Later this will be started with the init of the os
+
+## Design Idea
+
+<img src="design/mirrorOS.png" alt="Design of GUI" style="width: 60%">
